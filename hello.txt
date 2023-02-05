@@ -6,4 +6,5 @@ Hello atguigu! hello git!
 Hello atguigu! hello git!
 public static void mian(Stringp[] args){
 	print("Hello word!");
+	print("Hello git!");
 }
